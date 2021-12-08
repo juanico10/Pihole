@@ -204,3 +204,6 @@ https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/google/
 ~~~
 https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/mozilla/all
 ~~~
+~~~
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
+~~~

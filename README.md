@@ -201,3 +201,6 @@ https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/all
 ~~~
 https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/google/all
 ~~~
+~~~
+https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/mozilla/all
+~~~

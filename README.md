@@ -175,9 +175,6 @@ https://raw.githubusercontent.com/outapzaza/blocklist/master/fingerprintblock.tx
 https://raw.githubusercontent.com/outapzaza/blocklist/master/serverblocklist.txt 
 ~~~
 ~~~
-https://raw.githubusercontent.com/AzagraMac/PiHoleDocker/master/list/outapzazaRegex.txt 
-~~~
-~~~
 https://raw.githubusercontent.com/AzagraMac/PiHoleDocker/master/list/NSABlocklist.txt 
 ~~~
 ~~~
@@ -188,9 +185,6 @@ https://raw.githubusercontent.com/AzagraMac/PiHoleDocker/master/list/AndroidTrac
 ~~~
 ~~~
 https://v.firebog.net/hosts/Prigent-Ads.txt 
-~~~
-~~~
-https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt 
 ~~~
 ~~~
 https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt 

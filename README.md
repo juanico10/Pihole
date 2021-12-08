@@ -196,7 +196,7 @@ https://raw.githubusercontent.com/Zelo72/adguard/main/d3host.adblock
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds-Ultra.txt
 ~~~
 ~~~
-https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/google/all
+https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/all
 ~~~
 ~~~
 https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/google/all

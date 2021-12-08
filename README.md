@@ -192,3 +192,12 @@ https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spam
 ~~~
 https://raw.githubusercontent.com/Zelo72/adguard/main/d3host.adblock
 ~~~
+~~~
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds-Ultra.txt
+~~~
+~~~
+https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/google/all
+~~~
+~~~
+https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/google/all
+~~~

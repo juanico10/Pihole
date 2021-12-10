@@ -73,9 +73,20 @@ docker-compose up -d
 ~~~
 
 # Check
-
 ~~~
 docker ps -a
+~~~
+
+Edit the following variables, with the correct interface and IP.
+
+# Password acceso web
+Accedemos al contenedor:
+~~~
+docker exec -u root -t -i nextcloud /bin/bash
+~~~
+Cambiamos la password:
+~~~
+pihole -a -p
 ~~~
 
 # Listas para Pihole
@@ -206,6 +217,16 @@ https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/mozilla
 ~~~
 ~~~
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
+~~~
+
+# Regenerar listas
+Accedemos al contenedor:
+~~~
+docker exec -u root -t -i nextcloud /bin/bash
+~~~
+Regeneramos las listas:
+~~~
+pihole -g
 ~~~
 
 ## Ready!

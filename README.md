@@ -129,9 +129,6 @@ https://v.firebog.net/hosts/AdguardDNS.txt
 https://v.firebog.net/hosts/Easylist.txt 
 ~~~
 ~~~
-https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt 
-~~~
-~~~
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt 
 ~~~
 ~~~

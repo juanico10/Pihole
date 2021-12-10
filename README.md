@@ -102,9 +102,6 @@ https://dbl.oisd.nl
 https://sysctl.org/cameleon/hosts 
 ~~~
 ~~~
-https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt 
-~~~
-~~~
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt 
 ~~~
 ~~~
@@ -180,12 +177,6 @@ https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtube
 https://raw.githubusercontent.com/AzagraMac/PiHoleDocker/master/list/outapzazaList.txt 
 ~~~
 ~~~
-https://raw.githubusercontent.com/outapzaza/blocklist/master/fingerprintblock.txt 
-~~~
-~~~
-https://raw.githubusercontent.com/outapzaza/blocklist/master/serverblocklist.txt 
-~~~
-~~~
 https://raw.githubusercontent.com/AzagraMac/PiHoleDocker/master/list/NSABlocklist.txt 
 ~~~
 ~~~
@@ -207,16 +198,23 @@ https://raw.githubusercontent.com/Zelo72/adguard/main/d3host.adblock
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds-Ultra.txt
 ~~~
 ~~~
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
+~~~
+To Block Facebook/Instagram/Whatsapp
+~~~
 https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/all
 ~~~
+To Block Facebook/Instagram but leave Whatsapp open
+~~~
+https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all-but-whatsapp
+~~~
+NO GOOGLE:
 ~~~
 https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/google/all
 ~~~
+To Block Mozilla tracking
 ~~~
 https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/mozilla/all
-~~~
-~~~
-https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
 ~~~
 
 # Regenerar listas

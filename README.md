@@ -147,12 +147,6 @@ https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser 
 ~~~
 ~~~
-https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts 
-~~~
-~~~
-https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts 
-~~~
-~~~
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts 
 ~~~
 ~~~
@@ -208,13 +202,17 @@ To Block Facebook/Instagram but leave Whatsapp open
 ~~~
 https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all-but-whatsapp
 ~~~
-NO GOOGLE:
+To Block Google:
 ~~~
 https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/google/all
 ~~~
 To Block Mozilla tracking
 ~~~
 https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/mozilla/all
+~~~
+To Block Microsoft
+~~~
+https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all
 ~~~
 
 # Regenerar listas

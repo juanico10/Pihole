@@ -3,6 +3,7 @@ Proyecto para catalogar y enumerar los nombres de dominio bloquear en Pihole.
 
 ![alt text](https://github.com/JuanRodenas/Pihole/blob/main/pihole.png)
 
+
 📁 [Documentación oficial](https://docs.pi-hole.net/)
 # INSTALAR DOCKER
 Primero, actualice su lista de paquetes existente: 

@@ -23,7 +23,7 @@ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 
 Agregue el repositorio de Docker a las fuentes de APT: 
 ~~~
-sudo add-apt-repository `deb [arch=amd64] https://download.docker.com/linux/ubuntu focal stable`
+sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu focal stable"
 ~~~
 
 A continuación, actualice el paquete de base de datos con los paquetes de Docker del repositorio recién agregado: 

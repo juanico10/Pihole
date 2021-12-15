@@ -5,60 +5,6 @@ Proyecto para catalogar y enumerar los nombres de dominio bloquear en Pihole.
 
 
 📁 [Documentación oficial](https://docs.pi-hole.net/)
-# INSTALAR DOCKER
-Primero, actualice su lista de paquetes existente: 
-~~~
-sudo apt update
-~~~
-
-A continuación, instale algunos paquetes de requisitos previos que permitan a apt usar paquetes a través de HTTPS: 
-~~~
-sudo apt install apt-transport-https ca-certificates curl software-properties-common
-~~~
-
-Luego, añada la clave de GPG para el repositorio oficial de Docker en su sistema: 
-~~~
-curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
-~~~
-
-Agregue el repositorio de Docker a las fuentes de APT: 
-~~~
-sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu focal stable"
-~~~
-
-A continuación, actualice el paquete de base de datos con los paquetes de Docker del repositorio recién agregado: 
-~~~
-sudo apt update
-~~~
-
-Por último, instale Docker: 
-~~~
-sudo apt install docker-ce
-~~~
-
-Compruebe que funcione: 
-~~~
-sudo systemctl status docker
-~~~
-
-Ejecutar el comando Docker sin sudo, si desea evitar escribir sudo al ejecutar el comando docker, agregue su nombre de usuario al grupo docker: 
-~~~
-sudo usermod -aG docker ${USER}
-~~~
-
-
-# Instalar Docker Compose
-El siguiente comando descargará la versión 2.2.2 y guardará el archivo ejecutable en /usr/local/bin/docker-compose, que hará que este software esté globalmente accesible como docker-compose, Si desea descargar la versión más reciente, ir al enlace: https://github.com/docker/compose/releases y modificar la versión:
-~~~
-sudo curl -L "https://github.com/docker/compose/releases/download/1.26.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
-sudo chmod +x /usr/local/bin/docker-compose
-~~~
-
-Para verificar que la instalación se realizó correctamente, puede ejecutar:
-~~~
-docker-compose --version
-~~~
-
 
 # INSTALAR DOCKER-COMPOSE.YML DE PIHOLE
 Edit the following variables, with the correct interface and IP.

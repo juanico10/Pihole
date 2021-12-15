@@ -50,7 +50,7 @@ sudo usermod -aG docker ${USER}
 # Instalar Docker Compose
 El siguiente comando descargará la versión 2.2.2 y guardará el archivo ejecutable en /usr/local/bin/docker-compose, que hará que este software esté globalmente accesible como docker-compose, Si desea descargar la versión más reciente, ir al enlace: https://github.com/docker/compose/releases y modificar la versión:
 ~~~
-sudo curl -L `https://github.com/docker/compose/releases/download/2.2.2/docker-compose-$(uname -s)-$(uname -m)` -o /usr/local/bin/docker-compose
+sudo curl -L "https://github.com/docker/compose/releases/download/1.26.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 sudo chmod +x /usr/local/bin/docker-compose
 ~~~
 

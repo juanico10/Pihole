@@ -162,7 +162,7 @@ https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microso
 # Regenerar listas
 Accedemos al contenedor:
 ~~~
-docker exec -u root -t -i nextcloud /bin/bash
+docker exec -u root -t -i pihole /bin/bash
 ~~~
 Regeneramos las listas:
 ~~~

@@ -29,7 +29,7 @@ Edit the following variables, with the correct interface and IP.
 # Password acceso web
 Accedemos al contenedor:
 ~~~
-docker exec -u root -t -i nextcloud /bin/bash
+docker exec -u root -t -i pihole /bin/bash
 ~~~
 Cambiamos la password:
 ~~~

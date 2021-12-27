@@ -3,6 +3,11 @@ services:
   pihole:
     container_name: pihole
     image: pihole/pihole:latest
+    deploy:
+      resources:
+        limits:
+          cpus: "0.50"
+          memory: "256M"
     hostname: pihole
     restart: always
     ports:
@@ -16,7 +21,7 @@ services:
       INTERFACE: eth0
       VIRTUAL_HOST: pihole
       PROXY_LOCATION: pihole
-      ServerIP: YOUR_IP_SERVER
+      ServerIP: 192.168.1.18
       DNS1: 1.1.1.1
       DNS2: 1.0.0.1
     volumes:

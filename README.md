@@ -1,5 +1,5 @@
 # Pihole
-Proyecto para catalogar y enumerar los nombres de dominio bloquear en Pihole.
+El proyecto Pi-hole® es para bloqueo de anuncios en toda la red a través de su propio hardware Linux. Pi-hole® es un sumidero de DNS que protege sus dispositivos de contenidos no deseados sin necesidad de instalar ningún software del lado del cliente.
 
 #
 
@@ -16,27 +16,28 @@ Proyecto para catalogar y enumerar los nombres de dominio bloquear en Pihole.
 
 📁 [Documentación oficial](https://docs.pi-hole.net/)
 
-# INSTALAR DOCKER-COMPOSE.YML DE PIHOLE
+## INSTALAR DOCKER-COMPOSE.YML DE PIHOLE
 Edit the following variables, with the correct interface and IP.
 > Descargar [docker-compose.yml](https://github.com/JuanRodenas/Pihole/blob/main/docker-compose.yml)
 >~~~
 >INTERFACE:
 >ServerIP:
+>WEBPASSWORD:
 >~~~
 
-# Running
+#### Running
 ~~~
 docker-compose up -d
 ~~~
 
-# Check
+#### Check
 ~~~
 docker ps -a
 ~~~
 
 Edit the following variables, with the correct interface and IP.
 
-# Password acceso web
+#### Password acceso web
 Accedemos al contenedor:
 ~~~
 docker exec -u root -t -i pihole /bin/bash
@@ -46,10 +47,15 @@ Cambiamos la password:
 pihole -a -p
 ~~~
 
+#### Acceso al dashboard
+Hay varias formas de acceder al dashboard [access the dashboard](https://discourse.pi-hole.net/t/how-do-i-access-pi-holes-dashboard-admin-interface/3168):
+
+1. `http://pi.hole/admin/` (when using Pi-hole as your DNS server)
+2. `http://<IP_ADDPRESS_OF_YOUR_PI_HOLE>/admin/`
+3. `http://pi.hole/` (when using Pi-hole as your DNS server)
+
+
 # Listas para Pihole
-
-## Main White Lists
-
 
 ## Main black Lists
 ~~~

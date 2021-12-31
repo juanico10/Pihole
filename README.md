@@ -1,8 +1,18 @@
 # Pihole
 Proyecto para catalogar y enumerar los nombres de dominio bloquear en Pihole.
 
-![alt text](https://github.com/JuanRodenas/Pihole/blob/main/pihole.png)
+#
 
+<p align="center">
+    <a href="https://pi-hole.net/">
+        <img src="https://github.com/JuanRodenas/Pihole/blob/main/pihole.png" alt="Pi-hole">
+    </a>
+    <br>
+    <strong>Network-wide ad blocking via your own Linux hardware</strong>
+</p>
+<!-- markdownlint-enable MD033 -->
+
+#
 
 📁 [Documentación oficial](https://docs.pi-hole.net/)
 

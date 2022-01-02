@@ -198,3 +198,4 @@ azure.microsoft.com
 # Regex
 (^|\.)azure(|\.com)\.com$
 ^https?:\/\/([A-Za-z0-9.-]*\.)?azure\.com\/
+azure.com

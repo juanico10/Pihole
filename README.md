@@ -70,35 +70,18 @@ Hay varias formas de acceder al dashboard [access the dashboard](https://discour
 | -- | -- | -- |
 | dbl.oisd | [Link](https://dbl.oisd.nl) | - |
 | cameleon | [Link](https://sysctl.org/cameleon/hosts) | - |
-| simple_ad | [Link](https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt) | To Block simple_ad |
 | hosts | [Link](http://winhelp2002.mvps.org/hosts.txt) | - |
-| malvertising | [Link](https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt) | To Block malvertising |
 | hosts | [Link](https://someonewhocares.org/hosts/hosts) | - |
 | AdAway | [Link](https://adaway.org/hosts.txt) | - |
 | Easyprivacy | [Link](https://v.firebog.net/hosts/Easyprivacy.txt) | - |
 | AdguardDNS | [Link](https://v.firebog.net/hosts/AdguardDNS.txt) | To Block AdguardDNS |
-| Easylist | [Link](https://v.firebog.net/hosts/Easylist.txt) | To Block Easylist |
 | SmartTV | [Link](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt) | To Block SmartTV |
-| phishing | [Link](https://phishing.army/download/phishing_army_blocklist_extended.txt) | To Block phishing |
-| Spam | [Link](https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt) | To Block Spam |
-| trackers | [Link](https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt) | To Block trackers |
-| hosts_browser | [Link](https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser) | - |
-| add.Risk | [Link](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts) | - |
-| adservers | [Link](https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt) | To Block adservers |
 | ads-and-tracking-extended | [Link](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt) | - |
 | WindowsSpyBlocker | [Link](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt) | To Block WindowsSpyBlocker |
-| StevenBlack | [Link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | To Block StevenBlack |
-| urlhaus-filter-domains | [Link](https://raw.githubusercontent.com/AzagraMac/PiHoleDocker/master/list/urlhaus-filter-domains.txt) | - |
+| urlhaus-filter-domains | [Link](https://raw.githubusercontent.com/AzagraMac/PiHoleDocker/master/list/urlhaus-filter-domains.txt) | - | 
 | everything | [Link](https://blocklistproject.github.io/Lists/everything.txt) | To Block everything |
-| youtube | [Link](https://raw.githubusercontent.com/blocklistproject/Lists/master/youtube.txt) | To Block youtube |
-| outapzazaList | [Link](https://raw.githubusercontent.com/AzagraMac/PiHoleDocker/master/list/outapzazaList.txt) | - |
-| NSABlocklist | [Link](https://raw.githubusercontent.com/AzagraMac/PiHoleDocker/master/list/NSABlocklist.txt) | - |
-| adblock-nocoin | [Link](https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt) | To Block adblock |
 | AndroidTracking | [Link](https://raw.githubusercontent.com/AzagraMac/PiHoleDocker/master/list/AndroidTracking.txt) | To Block AndroidTracking |
-| Prigent-Ads | [Link](https://v.firebog.net/hosts/Prigent-Ads.txt) | To Block Prigent-Ads |
-| spammers | [Link](https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt) | To Block spammers | 
 | adguard | [Link](https://raw.githubusercontent.com/Zelo72/adguard/main/d3host.adblock) | To Block adguard |
-| GoodbyeAds-Ultra | [Link](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds-Ultra.txt) | To Block GoodbyeAds |
 | AdBlock | [Link](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt) | To Block AdBlock |
 | Facebook | [Link](https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/all) | To Block Facebook/Instagram/Whatsapp |
 | Whatsapp open | [Link](https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all-but-whatsapp) | To Block Facebook/Instagram but leave Whatsapp open |

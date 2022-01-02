@@ -89,7 +89,6 @@ Hay varias formas de acceder al dashboard [access the dashboard](https://discour
 | WindowsSpyBlocker | [Link](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt) | To Block WindowsSpyBlocker |
 | StevenBlack | [Link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | To Block StevenBlack |
 | urlhaus-filter-domains | [Link](https://raw.githubusercontent.com/AzagraMac/PiHoleDocker/master/list/urlhaus-filter-domains.txt) | - | 
-| youtubelist | [Link](https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt) | To Block youtubelist |
 | youtube | [Link](https://raw.githubusercontent.com/blocklistproject/Lists/master/youtube.txt) | To Block youtube |
 | outapzazaList | [Link](https://raw.githubusercontent.com/AzagraMac/PiHoleDocker/master/list/outapzazaList.txt) | - |
 | NSABlocklist | [Link](https://raw.githubusercontent.com/AzagraMac/PiHoleDocker/master/list/NSABlocklist.txt) | - |

@@ -195,8 +195,8 @@ duckdns.org
 simbrief.com
 browser.events.data.microsoft.com
 azure.microsoft.com
+samsung.com
+azure.com
 # Regex
 (^|\.)azure(|\.com)\.com$
 ^https?:\/\/([A-Za-z0-9.-]*\.)?azure\.com\/
-azure.com
-samsung.com

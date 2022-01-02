@@ -12,7 +12,7 @@
 # Lista dominios a bloquear en AdGuard
 /.*porn.*/
 ||soundestlink.com^
-||bet777.es^
+||pushserver-uk.sbtech.com^
 ||cdnppb.net^
 ||codere.es^
 ||betfair.es^

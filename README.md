@@ -69,9 +69,6 @@ Hay varias formas de acceder al dashboard [access the dashboard](https://discour
 | List | Link | Description |
 | -- | -- | -- |
 | dbl.oisd | [Link](https://dbl.oisd.nl) | - |
-| cameleon | [Link](https://sysctl.org/cameleon/hosts) | - |
-| AdGuard_ads | [Link](https://raw.githubusercontent.com/JuanRodenas/Pihole/main/Listas/AdGuard_ads.txt?token=AW2KKP5J34T2CS2NNKEFRD3B2EKUY) | To Block AdGuard_ads |
-| Tracking | [Link](https://raw.githubusercontent.com/JuanRodenas/Pihole/main/Listas/tracking.txt?token=AW2KKP4ELVXEJWWIF7N4TPDB2EKV4) | To Block tracking |
 | SmartTV | [Link](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt) | To Block SmartTV |
 | WindowsSpyBlocker | [Link](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt) | To Block WindowsSpyBlocker |
 | urlhaus-filter-domains | [Link](https://raw.githubusercontent.com/AzagraMac/PiHoleDocker/master/list/urlhaus-filter-domains.txt) | - | 
@@ -83,7 +80,6 @@ Hay varias formas de acceder al dashboard [access the dashboard](https://discour
 | Google | [Link](https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/google/all) | To Block Google |
 | Mozilla | [Link](https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/mozilla/all) | To Block Mozilla tracking |
 | Microsoft | [Link](https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all) | To Block Microsoft |
-
 
 
 # Regenerar listas

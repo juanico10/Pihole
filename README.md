@@ -57,69 +57,80 @@ Hay varias formas de acceder al dashboard [access the dashboard](https://discour
 
 # Listas para Pihole
 
+## Main White Lists
+| List | Link | Description |
+| -- | -- | -- |
+| Whitelist | [Link](https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt) | Lista blanca a permitir |
+
+
+## Main Black Lists
+
+| List | Link | Description |
+| -- | -- | -- |
+| AdBlock's | [Link]() | This list prioritizes functionality over blocking |
 ## Main black Lists
 ~~~
-https://dbl.oisd.nl 
+| AdBlock's | [Link](https://dbl.oisd.nl 
 ~~~
 ~~~
-https://sysctl.org/cameleon/hosts 
+| AdBlock's | [Link](https://sysctl.org/cameleon/hosts 
 ~~~
 ~~~
-https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt 
+| AdBlock's | [Link](https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt 
 ~~~
 ~~~
-http://winhelp2002.mvps.org/hosts.txt 
+| AdBlock's | [Link](http://winhelp2002.mvps.org/hosts.txt 
 ~~~
 ~~~
-https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt 
+| AdBlock's | [Link](https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt 
 ~~~
 ~~~
-https://someonewhocares.org/hosts/hosts 
+| AdBlock's | [Link](https://someonewhocares.org/hosts/hosts 
 ~~~
 ~~~
-https://adaway.org/hosts.txt 
+| AdBlock's | [Link](https://adaway.org/hosts.txt 
 ~~~
 ~~~
-https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext 
+| AdBlock's | [Link](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext 
 ~~~
 ~~~
-https://v.firebog.net/hosts/Easyprivacy.txt 
+| AdBlock's | [Link](https://v.firebog.net/hosts/Easyprivacy.txt 
 ~~~
 ~~~
-https://v.firebog.net/hosts/AdguardDNS.txt 
+| AdBlock's | [Link](https://v.firebog.net/hosts/AdguardDNS.txt 
 ~~~
 ~~~
-https://v.firebog.net/hosts/Easylist.txt 
+| AdBlock's | [Link](https://v.firebog.net/hosts/Easylist.txt 
 ~~~
 ~~~
-https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt 
+| AdBlock's | [Link](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt 
 ~~~
 ~~~
-https://phishing.army/download/phishing_army_blocklist_extended.txt 
+| AdBlock's | [Link](https://phishing.army/download/phishing_army_blocklist_extended.txt 
 ~~~
 ~~~
-https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt 
+| AdBlock's | [Link](https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt 
 ~~~
 ~~~
-https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt 
+| AdBlock's | [Link](https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt 
 ~~~
 ~~~
-https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser 
+| AdBlock's | [Link](https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser 
 ~~~
 ~~~
-https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts 
+| AdBlock's | [Link](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts 
 ~~~
 ~~~
-https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt 
+| AdBlock's | [Link](https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt 
 ~~~
 ~~~
-https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt 
+| AdBlock's | [Link](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt 
 ~~~
 ~~~
-https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt 
+| AdBlock's | [Link](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt 
 ~~~
 ~~~
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts 
+| AdBlock's | [Link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts 
 ~~~
 ~~~
 https://raw.githubusercontent.com/AzagraMac/PiHoleDocker/master/list/urlhaus-filter-domains.txt 

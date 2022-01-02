@@ -70,19 +70,13 @@ Hay varias formas de acceder al dashboard [access the dashboard](https://discour
 | -- | -- | -- |
 | dbl.oisd | [Link](https://dbl.oisd.nl) | - |
 | cameleon | [Link](https://sysctl.org/cameleon/hosts) | - |
-| hosts | [Link](http://winhelp2002.mvps.org/hosts.txt) | - |
-| hosts | [Link](https://someonewhocares.org/hosts/hosts) | - |
-| AdAway | [Link](https://adaway.org/hosts.txt) | - |
-| Easyprivacy | [Link](https://v.firebog.net/hosts/Easyprivacy.txt) | - |
-| AdguardDNS | [Link](https://v.firebog.net/hosts/AdguardDNS.txt) | To Block AdguardDNS |
+| AdGuard_ads | [Link](https://raw.githubusercontent.com/JuanRodenas/Pihole/main/Listas/AdGuard_ads.txt?token=AW2KKP5J34T2CS2NNKEFRD3B2EKUY) | To Block AdGuard_ads |
+| tracking | [Link](https://raw.githubusercontent.com/JuanRodenas/Pihole/main/Listas/tracking.txt?token=AW2KKP4ELVXEJWWIF7N4TPDB2EKV4) | To Block tracking |
 | SmartTV | [Link](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt) | To Block SmartTV |
-| ads-and-tracking-extended | [Link](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt) | - |
 | WindowsSpyBlocker | [Link](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt) | To Block WindowsSpyBlocker |
 | urlhaus-filter-domains | [Link](https://raw.githubusercontent.com/AzagraMac/PiHoleDocker/master/list/urlhaus-filter-domains.txt) | - | 
 | everything | [Link](https://blocklistproject.github.io/Lists/everything.txt) | To Block everything |
 | AndroidTracking | [Link](https://raw.githubusercontent.com/AzagraMac/PiHoleDocker/master/list/AndroidTracking.txt) | To Block AndroidTracking |
-| adguard | [Link](https://raw.githubusercontent.com/Zelo72/adguard/main/d3host.adblock) | To Block adguard |
-| AdBlock | [Link](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt) | To Block AdBlock |
 | Facebook | [Link](https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/all) | To Block Facebook/Instagram/Whatsapp |
 | Whatsapp open | [Link](https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all-but-whatsapp) | To Block Facebook/Instagram but leave Whatsapp open |
 | Google | [Link](https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/google/all) | To Block Google |

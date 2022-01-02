@@ -58,6 +58,7 @@ Hay varias formas de acceder al dashboard [access the dashboard](https://discour
 # Listas para Pihole
 
 ## Main White Lists
+
 | List | Link | Description |
 | -- | -- | -- |
 | Whitelist | [Link](https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt) | Lista blanca a permitir |
@@ -67,124 +68,43 @@ Hay varias formas de acceder al dashboard [access the dashboard](https://discour
 
 | List | Link | Description |
 | -- | -- | -- |
-| AdBlock's | [Link]() | This list prioritizes functionality over blocking |
-## Main black Lists
-~~~
-| AdBlock's | [Link](https://dbl.oisd.nl 
-~~~
-~~~
-| AdBlock's | [Link](https://sysctl.org/cameleon/hosts 
-~~~
-~~~
-| AdBlock's | [Link](https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt 
-~~~
-~~~
-| AdBlock's | [Link](http://winhelp2002.mvps.org/hosts.txt 
-~~~
-~~~
-| AdBlock's | [Link](https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt 
-~~~
-~~~
-| AdBlock's | [Link](https://someonewhocares.org/hosts/hosts 
-~~~
-~~~
-| AdBlock's | [Link](https://adaway.org/hosts.txt 
-~~~
-~~~
-| AdBlock's | [Link](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext 
-~~~
-~~~
-| AdBlock's | [Link](https://v.firebog.net/hosts/Easyprivacy.txt 
-~~~
-~~~
-| AdBlock's | [Link](https://v.firebog.net/hosts/AdguardDNS.txt 
-~~~
-~~~
-| AdBlock's | [Link](https://v.firebog.net/hosts/Easylist.txt 
-~~~
-~~~
-| AdBlock's | [Link](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt 
-~~~
-~~~
-| AdBlock's | [Link](https://phishing.army/download/phishing_army_blocklist_extended.txt 
-~~~
-~~~
-| AdBlock's | [Link](https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt 
-~~~
-~~~
-| AdBlock's | [Link](https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt 
-~~~
-~~~
-| AdBlock's | [Link](https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser 
-~~~
-~~~
-| AdBlock's | [Link](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts 
-~~~
-~~~
-| AdBlock's | [Link](https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt 
-~~~
-~~~
-| AdBlock's | [Link](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt 
-~~~
-~~~
-| AdBlock's | [Link](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt 
-~~~
-~~~
-| AdBlock's | [Link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts 
-~~~
-~~~
-https://raw.githubusercontent.com/AzagraMac/PiHoleDocker/master/list/urlhaus-filter-domains.txt 
-~~~
-~~~
-https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt 
-~~~
-~~~
-https://raw.githubusercontent.com/AzagraMac/PiHoleDocker/master/list/outapzazaList.txt 
-~~~
-~~~
-https://raw.githubusercontent.com/AzagraMac/PiHoleDocker/master/list/NSABlocklist.txt 
-~~~
-~~~
-https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt 
-~~~
-~~~
-https://raw.githubusercontent.com/AzagraMac/PiHoleDocker/master/list/AndroidTracking.txt 
-~~~
-~~~
-https://v.firebog.net/hosts/Prigent-Ads.txt 
-~~~
-~~~
-https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt 
-~~~
-~~~
-https://raw.githubusercontent.com/Zelo72/adguard/main/d3host.adblock
-~~~
-~~~
-https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds-Ultra.txt
-~~~
-~~~
-https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
-~~~
-To Block Facebook/Instagram/Whatsapp
-~~~
-https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/all
-~~~
-To Block Facebook/Instagram but leave Whatsapp open
-~~~
-https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all-but-whatsapp
-~~~
-To Block Google:
-~~~
-https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/google/all
-~~~
-To Block Mozilla tracking
-~~~
-https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/mozilla/all
-~~~
-To Block Microsoft
-~~~
-https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all
-~~~
+| dbl.oisd | [Link](https://dbl.oisd.nl) | - |
+| cameleon | [Link](https://sysctl.org/cameleon/hosts) | - |
+| simple_ad | [Link](https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt) | To Block simple_ad |
+| hosts | [Link](http://winhelp2002.mvps.org/hosts.txt) | - |
+| malvertising | [Link](https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt) | To Block malvertising |
+| hosts | [Link](https://someonewhocares.org/hosts/hosts) | - |
+| AdAway | [Link](https://adaway.org/hosts.txt) | - |
+| Easyprivacy | [Link](https://v.firebog.net/hosts/Easyprivacy.txt) | - |
+| AdguardDNS | [Link](https://v.firebog.net/hosts/AdguardDNS.txt) | To Block AdguardDNS |
+| Easylist | [Link](https://v.firebog.net/hosts/Easylist.txt) | To Block Easylist |
+| SmartTV | [Link](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt) | To Block SmartTV |
+| phishing | [Link](https://phishing.army/download/phishing_army_blocklist_extended.txt) | To Block phishing |
+| Spam | [Link](https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt) | To Block Spam |
+| trackers | [Link](https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt) | To Block trackers |
+| hosts_browser | [Link](https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser) | - |
+| add.Risk | [Link](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts) | - |
+| adservers | [Link](https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt) | To Block adservers |
+| ads-and-tracking-extended | [Link](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt) | - |
+| WindowsSpyBlocker | [Link](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt) | To Block WindowsSpyBlocker |
+| StevenBlack | [Link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | To Block StevenBlack |
+| urlhaus-filter-domains | [Link](https://raw.githubusercontent.com/AzagraMac/PiHoleDocker/master/list/urlhaus-filter-domains.txt) | - | 
+| youtubelist | [Link](https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt) | To Block youtubelist |
+| outapzazaList | [Link](https://raw.githubusercontent.com/AzagraMac/PiHoleDocker/master/list/outapzazaList.txt) | - |
+| NSABlocklist | [Link](https://raw.githubusercontent.com/AzagraMac/PiHoleDocker/master/list/NSABlocklist.txt) | - |
+| adblock-nocoin | [Link](https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt) | To Block adblock |
+| AndroidTracking | [Link](https://raw.githubusercontent.com/AzagraMac/PiHoleDocker/master/list/AndroidTracking.txt) | To Block AndroidTracking |
+| Prigent-Ads | [Link](https://v.firebog.net/hosts/Prigent-Ads.txt) | To Block Prigent-Ads |
+| spammers | [Link](https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt) | To Block spammers | 
+| adguard | [Link](https://raw.githubusercontent.com/Zelo72/adguard/main/d3host.adblock) | To Block adguard |
+| GoodbyeAds-Ultra | [Link](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds-Ultra.txt) | To Block GoodbyeAds |
+| AdBlock | [Link](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt) | To Block AdBlock |
+| Facebook | [Link](https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/all) | To Block Facebook/Instagram/Whatsapp |
+| Whatsapp open | [Link](https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all-but-whatsapp) | To Block Facebook/Instagram but leave Whatsapp open |
+| Google | [Link](https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/google/all) | To Block Google |
+| Mozilla | [Link](https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/mozilla/all) | To Block Mozilla tracking |
+| Microsoft | [Link](https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all) | To Block Microsoft |
+
 
 # Regenerar listas
 Accedemos al contenedor:

@@ -1,0 +1,24 @@
+# Ad filter list by Disconnect
+# License: GPLv3
+# Contact: juanrodenas07@gmail.com
+
+
+# Lista dominios a bloquear en AdGuard
+@@||www.youtube.com^$important
+@@||open.spotify.com^$important
+/.*porn.*/
+@@/.*azure.com/
+
+
+# Lista dominios a bloquear
+soundestlink.com
+bet777.es
+cdnppb.net
+codere.es
+betfair.es
+kirolbet.es
+888sport.es
+bing.com
+bwin.es
+sportium.es
+bet365.es

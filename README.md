@@ -71,17 +71,19 @@ Hay varias formas de acceder al dashboard [access the dashboard](https://discour
 | dbl.oisd | [Link](https://dbl.oisd.nl) | - |
 | cameleon | [Link](https://sysctl.org/cameleon/hosts) | - |
 | AdGuard_ads | [Link](https://raw.githubusercontent.com/JuanRodenas/Pihole/main/Listas/AdGuard_ads.txt?token=AW2KKP5J34T2CS2NNKEFRD3B2EKUY) | To Block AdGuard_ads |
-| tracking | [Link](https://raw.githubusercontent.com/JuanRodenas/Pihole/main/Listas/tracking.txt?token=AW2KKP4ELVXEJWWIF7N4TPDB2EKV4) | To Block tracking |
+| Tracking | [Link](https://raw.githubusercontent.com/JuanRodenas/Pihole/main/Listas/tracking.txt?token=AW2KKP4ELVXEJWWIF7N4TPDB2EKV4) | To Block tracking |
 | SmartTV | [Link](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt) | To Block SmartTV |
 | WindowsSpyBlocker | [Link](https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt) | To Block WindowsSpyBlocker |
 | urlhaus-filter-domains | [Link](https://raw.githubusercontent.com/AzagraMac/PiHoleDocker/master/list/urlhaus-filter-domains.txt) | - | 
 | everything | [Link](https://blocklistproject.github.io/Lists/everything.txt) | To Block everything |
 | AndroidTracking | [Link](https://raw.githubusercontent.com/AzagraMac/PiHoleDocker/master/list/AndroidTracking.txt) | To Block AndroidTracking |
+| Youtube | [Link](https://raw.githubusercontent.com/blocklistproject/Lists/master/youtube.txt) | To Block youtube |
 | Facebook | [Link](https://github.com/jmdugan/blocklists/blob/master/corporations/facebook/all) | To Block Facebook/Instagram/Whatsapp |
 | Whatsapp open | [Link](https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all-but-whatsapp) | To Block Facebook/Instagram but leave Whatsapp open |
 | Google | [Link](https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/google/all) | To Block Google |
 | Mozilla | [Link](https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/mozilla/all) | To Block Mozilla tracking |
 | Microsoft | [Link](https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all) | To Block Microsoft |
+
 
 
 # Regenerar listas

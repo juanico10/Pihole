@@ -15,13 +15,6 @@
 /.*pushserver-uk.sbtech.*/
 /.*cdnppb.*/
 /.*codere.*/
-/.*betfair.*/
-/.*kirolbet.*/
-/.*888sport.*/
-/.*bing.*/
-/.*bwin.*/
-/.*sportium.*/
-/.*www.bet365.*/
 /.*casino777.*/
 /.*telemetry.*/
 /.*analytics.*/

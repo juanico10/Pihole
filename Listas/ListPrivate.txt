@@ -14,8 +14,6 @@
 /.*soundestlink.*/
 /.*pushserver-uk.sbtech.*/
 /.*cdnppb.*/
-/.*codere.*/
-/.*casino777.*/
 /.*telemetry.*/
 /.*analytics.*/
 /.*adtrack.*/

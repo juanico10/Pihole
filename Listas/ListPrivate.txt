@@ -23,3 +23,6 @@
 /.*sportium.*/
 /.*www.bet365.*/
 /.*casino777.*/
+/.*telemetry.*/
+/.*analytics.*/
+/.*adtrack.*/

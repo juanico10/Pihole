@@ -57,10 +57,7 @@ Hay varias formas de acceder al dashboard [access the dashboard](https://discour
 ## Detalles
 Estas listas se crearon porque quería algo con un poco más de control sobre lo que se bloquea. Muchas listas son de todo o nada. Nos propusimos crear listas con más control sobre lo que se bloquea.
 
-## Detalles
-Estas listas se crearon porque quería algo con un poco más de control sobre lo que se bloquea. Muchas listas son de todo o nada. Nos propusimos crear listas con más control sobre lo que se bloquea.
-
-## Versiones:
+### Versiones:
 
 <details>
 <summary>Versión original:</summary>
@@ -105,7 +102,7 @@ Estas listas se crearon porque quería algo con un poco más de control sobre lo
 </details>
 &nbsp;
 
-## Uso:
+### Uso:
 <details>
     <summary>Utilizar con <a href="https://pi-hole.net" target="_blank">Pi-Hole</a>:</summary>
 
@@ -188,7 +185,9 @@ Estas listas se crearon porque quería algo con un poco más de control sobre lo
 | Microsoft | [Link](https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all) | - | To Block Microsoft |
 | VideoGamesAdiction | [Link](https://raw.githubusercontent.com/JuanRodenas/Pi-hole_list/main/List/VideoGamesAdiction.txt) | - | To Block VideoGames Adiction |
 
-## Comprobar tu SelfHosted:
+<sup>Se ha añadido una pestaña para AdGuard con listas adaptadas a su formato.</sup>
+
+### Comprobar tu SelfHosted:
 
 <details>
 <summary>fivefilters:</summary>
@@ -217,7 +216,7 @@ Estas listas se crearon porque quería algo con un poco más de control sobre lo
 </details>
 &nbsp;
 
-## Comprobar DoH, DoT y DDNSSEC:
+### Comprobar DoH, DoT y DDNSSEC:
 
 <details>
 <summary>1.1.1.1 de Cloudflare:</summary>

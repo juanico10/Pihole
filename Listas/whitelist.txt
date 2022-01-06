@@ -138,7 +138,7 @@
 @@||res.cloudinary.com^
 @@||s.gateway.messenger.live.com^
 @@||s.marketwatch.com^
-@@||s.youtube.com^
+@@||s..com^
 @@||s.ytimg.com^
 @@||s1.wp.com^
 @@||s2.youtube.com^
@@ -184,8 +184,6 @@
 @@||xflight.xboxlive.com^
 @@||xkms.xboxlive.com^
 @@||xsts.auth.xboxlive.com^
-@@||youtu.be^
-@@||youtube-nocookie.com^
 @@||yt3.ggpht.com^
 @@||zee.cws.conviva.com^
 @@||pings.conviva.com^
@@ -199,17 +197,13 @@
 @@||connectivitycheck.android.com^
 @@||www.msftconnecttest.com^
 @@||open.spotify.com^
-@@||youtube.com^
+@@||www.youtube.com^
 @@||duckdns.org^
 @@||simbrief.com^
-@@||browser.events.data.microsoft.com^
 @@||azure.microsoft.com^
-@@||samsung.com^
 @@||azure.com^
 @@||api.pinterest.com^
 @@||duckdns.org^
 @@||nasaus.es^
 @@||bitwarden.com^
-@@||gamepass.com^
 @@||norton.com^
-@@||ads-blocker.com^

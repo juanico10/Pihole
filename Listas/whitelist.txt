@@ -211,3 +211,6 @@
 @@||nasaus.es^
 @@||bitwarden.com^
 @@||gamepass.com^
+@@||norton.com^
+@@||seal.verisign.com^
+@@||symantec.com^

@@ -206,10 +206,10 @@
 @@||azure.microsoft.com^
 @@||samsung.com^
 @@||azure.com^
-
+@@||addons.mozilla.org^
+@@||api.pinterest.com^
 
 # Regex
 @@||(^|\.)azure(|\.com)\.com$
-@@||api.pinterest.com^
-@@/.*azure.*/^
-@@/.*bitwarden.com/^
+@@/.*azure.*/
+@@/.*bitwarden.com/

@@ -207,9 +207,6 @@
 @@||samsung.com^
 @@||azure.com^
 @@||api.pinterest.com^
-
-# Regex
-@@||(^|\.)azure(|\.com)\.com$
-@@/.*azure.*/
-@@/.*bitwarden.com/
-@@/.*nasaus.es/
+@@||duckdns.org^
+@@||nasaus.es^
+@@||bitwarden.com^

@@ -213,3 +213,4 @@
 @@||(^|\.)azure(|\.com)\.com$
 @@/.*azure.*/
 @@/.*bitwarden.com/
+@@/.*nasaus.es/

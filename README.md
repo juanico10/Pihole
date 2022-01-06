@@ -78,6 +78,16 @@ Nuestros usuarios nos han llamado la atención sobre el hecho de que algunos dis
 </details>
 &nbsp;
 <details>
+<summary>Adguard Version:</summary>
+
+<p>&nbsp;Todas las urls de esta versión de la lista aparecen en el archivo de hosts de la siguiente manera</p>
+
+<p>  &nbsp;&nbsp;||example.com^</p>
+
+
+Se ha solicitado añadir soporte para AdGuard. Actualmente estamos probando nuestras listas. Por favor, proporcione sus comentarios.
+</details>
+&nbsp;
 
 
 ## Uso:
@@ -94,6 +104,21 @@ Nuestros usuarios nos han llamado la atención sobre el hecho de que algunos dis
 <sup>Instrucciones actuales a partir de Pi-hole 5.2.4. Las instrucciones pueden ser ligeramente diferentes en la actualidad. Las instrucciones se actualizarán cuando se publique la versión 6.</sup>
 </details>
 &nbsp;
+
+<details>
+    <summary>Using with <a href="https://adguard.com/en/adguard-home/overview.html">AdGuard Home</a>:</summary>
+
+## Instrucciones de uso con AdGuard Home:
+
+1. Copie el enlace al formato de AdGuard correspondiente a la lista deseada (de la tabla correspondiente a continuación).
+2. Añada la URL a su lista de bloqueo de AdGuard (**Inicio de sesión** > **Filtros** > **Listas de bloqueo DNS** > **Añadir lista de bloqueo** > **Añadir una lista personalizada** > **Introducir nombre** > **Pegar la URL del enlace copiado**)
+3. La lista se activa automáticamente y está lista para empezar a bloquear.
+
+&nbsp;
+<sup>Las instrucciones son actuales a partir de AdGuard Home v0.107.2</sup>
+</details>
+&nbsp;
+
 
 # Listas para Pihole
 

@@ -212,3 +212,4 @@
 @@||bitwarden.com^
 @@||gamepass.com^
 @@||norton.com^
+@@||ads-blocker.com^

@@ -21,11 +21,11 @@ services:
       INTERFACE: eth0
       VIRTUAL_HOST: pihole
       PROXY_LOCATION: pihole
-      ServerIP: 192.168.1.18
+      ServerIP: YOUR_IP
       DNS1: 1.1.1.1
       DNS2: 1.0.0.1
     volumes:
-      - '/root/docker/pihole/etc-pihole/:/etc/pihole/'
-      - '/root/docker/pihole/etc-dnsmasq.d/:/etc/dnsmasq.d/'
+      - '/patch/to/data/pihole/etc-pihole/:/etc/pihole/'
+      - '/patch/to/data/pihole/etc-dnsmasq.d/:/etc/dnsmasq.d/'
     cap_add:
       - NET_ADMIN
